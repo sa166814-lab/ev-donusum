@@ -22,9 +22,9 @@
         { "dosya": "IMG_20260626_190635.jpg", "yazi": "Köşeler tam gönye, mastarla kontrol edildi" },
         { "dosya": "IMG_20260626_190705.jpg", "yazi": "Duvar boyu hedeflenen yüksekliğe ulaştı" },
         { "dosya": "IMG_20260626_190712.jpg", "yazi": "Detaylar tek tek işlendi" },
-        { "dosya": "IMG_20260628_WA0000.jpg", "yazi": "Örgü işi tamam, sıraya hazır" },
+        { "dosya": "IMG-20260628-WA0000.jpeg", "yazi": "Örgü işi tamam, sıraya hazır" },
         { "dosya": "IMG_20260628_164651.jpg", "yazi": "Kaba yapı ortaya çıkıyor" },
-        { "dosya": "IMG_20260628_164705.jpg", "yazi": "Duvar örme aşaması başarıyla bitti" }
+        { "dosya": "IMG_20260628_164705.jpg", "yazi": "Duvar örme aşaması başarıyla tamamlandı" }
       ]
     },
     {
@@ -55,9 +55,9 @@
       "mod": "slayt",
       "sure": 4,
       "fotolar": [
-        { "dosya": "IMG_20260709_WA0024.jpg", "yazi": "İlk kat atıldı, renk yüzeye yayılıyor" },
+        { "dosya": "IMG-20260709-WA0024.jpg", "yazi": "İlk kat atıldı, renk yüzeye yayılıyor" },
         { "dosya": "IMG_20260709_115535.jpg", "yazi": "İkinci kat sonrası — pürüzsüz ve canlı" },
-        { "dosya": "IMG_20260709_WA0023.jpg", "yazi": "Ve bitti — alın teriyle yükselen ev hazır" }
+        { "dosya": "IMG-20260709-WA0023.jpg", "yazi": "Ve bitti — alın teriyle yükselen ev hazır" }
       ]
     }
   ]
