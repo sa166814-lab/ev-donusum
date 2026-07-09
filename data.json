@@ -3,24 +3,22 @@
   "altBaslik": "Sıvasından boyasına, her aşamayı adım adım burada paylaşıyoruz.",
   "bolumler": [
     {
-      "baslik": "Salon — Sıva ve Astar",
-      "aciklama": "Eski sıva söküldü, duvarlar tamir harcıyla düzeltildi ve iki kat astar atıldı.",
+      "baslik": "1. Bölüm — Başlangıç",
+      "aciklama": "İşe başlamadan önceki hâli ve ilk aşamalar.",
       "mod": "slayt",
       "sure": 4,
       "fotolar": [
-        { "dosya": "fotolar/salon1.jpg", "yazi": "Önce — nem almış eski sıva" },
-        { "dosya": "fotolar/salon2.jpg", "yazi": "Alçı sıva çekildi, mastarla düzeltildi" },
-        { "dosya": "fotolar/salon3.jpg", "yazi": "Sonra — 2 kat astar, boyaya hazır" }
+        { "dosya": "IMG_20260624_212329.jpg", "yazi": "24 Haziran — işe başladık" },
+        { "dosya": "IMG_20260626_190705.jpg", "yazi": "26 Haziran — ilerleme" }
       ]
     },
     {
-      "baslik": "Mutfak — Boya",
-      "aciklama": "Tavan ve duvarlar silinebilir boya ile iki kat boyandı.",
+      "baslik": "2. Bölüm — Devam",
+      "aciklama": "Çalışmanın devamı ve son hâli.",
       "mod": "kaydir",
       "fotolar": [
-        { "dosya": "fotolar/mutfak1.jpg", "yazi": "Kenarlar maskeleme bandıyla korundu" },
-        { "dosya": "fotolar/mutfak2.jpg", "yazi": "Birinci kat rulo ile atıldı" },
-        { "dosya": "fotolar/mutfak3.jpg", "yazi": "İkinci kat sonrası — pürüzsüz yüzey" }
+        { "dosya": "IMG_20260702_203155.jpg", "yazi": "2 Temmuz — bir sonraki aşama" },
+        { "dosya": "IMG_20260709_143232.jpg", "yazi": "9 Temmuz — son durum" }
       ]
     }
   ]
