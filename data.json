@@ -1,24 +1,63 @@
 {
   "baslik": "Bu evi <em>kendi ellerimizle</em> yeniledik",
-  "altBaslik": "Sıvasından boyasına, her aşamayı adım adım burada paylaşıyoruz.",
+  "altBaslik": "Temelden boyaya, her taşın altında alın terimiz var. İşte adım adım dönüşümün hikâyesi.",
   "bolumler": [
     {
-      "baslik": "1. Bölüm — Başlangıç",
-      "aciklama": "İşe başlamadan önceki hâli ve ilk aşamalar.",
+      "baslik": "1. Bölüm — Duvar Örme",
+      "aciklama": "Her şey ilk tuğlayla başladı. Şakülü kurduk, ipi çektik ve duvarları sıfırdan ördük.",
       "mod": "slayt",
       "sure": 4,
       "fotolar": [
-        { "dosya": "IMG_20260624_212329.jpg", "yazi": "24 Haziran — işe başladık" },
-        { "dosya": "IMG_20260626_190705.jpg", "yazi": "26 Haziran — ilerleme" }
+        { "dosya": "IMG_20260624_212329.jpg", "yazi": "İlk tuğla — heyecanla işe koyulduk" },
+        { "dosya": "IMG_20260626_190705.jpg", "yazi": "Sıra sıra yükseliyor, duvar şekilleniyor" },
+        { "dosya": "IMG_20260624_212337.jpg", "yazi": "Harç, mala ve sabır — düz gitsin diye ip gergin" },
+        { "dosya": "IMG_20260624_212349.jpg", "yazi": "Günün sonunda emeğin karşılığı görülüyor" }
       ]
     },
     {
-      "baslik": "2. Bölüm — Devam",
-      "aciklama": "Çalışmanın devamı ve son hâli.",
+      "baslik": "2. Bölüm — Duvar Örme (Devamı)",
+      "aciklama": "Duvarlar tamamlanıyor. Köşeler dikey, sıralar düzgün — işçilik göz önünde.",
       "mod": "kaydir",
       "fotolar": [
-        { "dosya": "IMG_20260702_203155.jpg", "yazi": "2 Temmuz — bir sonraki aşama" },
-        { "dosya": "IMG_20260709_143232.jpg", "yazi": "9 Temmuz — son durum" }
+        { "dosya": "IMG_20260626_190635.jpg", "yazi": "Köşeler tam gönye, mastarla kontrol edildi" },
+        { "dosya": "IMG_20260626_190705.jpg", "yazi": "Duvar boyu hedeflenen yüksekliğe ulaştı" },
+        { "dosya": "IMG_20260626_190712.jpg", "yazi": "Detaylar tek tek işlendi" },
+        { "dosya": "IMG_20260628_WA0000.jpg", "yazi": "Örgü işi tamam, sıraya hazır" },
+        { "dosya": "IMG_20260628_164651.jpg", "yazi": "Kaba yapı ortaya çıkıyor" },
+        { "dosya": "IMG_20260628_164705.jpg", "yazi": "Duvar örme aşaması başarıyla bitti" }
+      ]
+    },
+    {
+      "baslik": "3. Bölüm — Cam Takma",
+      "aciklama": "Boşluklar camlarla kapandı. Işık girmeye başladı, mekân canlandı.",
+      "mod": "kaydir",
+      "fotolar": [
+        { "dosya": "IMG_20260709_143000.jpg", "yazi": "Çerçeveler yerine oturdu" },
+        { "dosya": "IMG_20260709_143232.jpg", "yazi": "Cam takıldı, içeri gün ışığı doldu" },
+        { "dosya": "IMG_20260702_203152.jpg", "yazi": "Pencereler tamam — mekân artık nefes alıyor" }
+      ]
+    },
+    {
+      "baslik": "4. Bölüm — İç Mekân",
+      "aciklama": "Sıra iç mekâna geldi. Yüzeyler düzeltildi, mekân yaşanabilir hâle gelmeye başladı.",
+      "mod": "kaydir",
+      "fotolar": [
+        { "dosya": "IMG_20260707_143955.jpg", "yazi": "İç yüzeyler elden geçiriliyor" },
+        { "dosya": "IMG_20260707_144004.jpg", "yazi": "Duvarlar pürüzsüzleşiyor" },
+        { "dosya": "IMG_20260709_115306.jpg", "yazi": "Mekân toparlanıyor, hatlar netleşiyor" },
+        { "dosya": "IMG_20260709_122724.jpg", "yazi": "İnce işçilik başladı" },
+        { "dosya": "IMG_20260709_125100.jpg", "yazi": "İç mekân neredeyse hazır" }
+      ]
+    },
+    {
+      "baslik": "5. Bölüm — Boyama",
+      "aciklama": "Son dokunuş: boya. Emek göz nuruna, göz nuru da bugün gördüğünüz eve dönüştü.",
+      "mod": "slayt",
+      "sure": 4,
+      "fotolar": [
+        { "dosya": "IMG_20260709_WA0024.jpg", "yazi": "İlk kat atıldı, renk yüzeye yayılıyor" },
+        { "dosya": "IMG_20260709_115535.jpg", "yazi": "İkinci kat sonrası — pürüzsüz ve canlı" },
+        { "dosya": "IMG_20260709_WA0023.jpg", "yazi": "Ve bitti — alın teriyle yükselen ev hazır" }
       ]
     }
   ]
